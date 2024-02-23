@@ -5,3 +5,5 @@
  - [xlm-roberta-base](https://huggingface.co/FacebookAI/xlm-roberta-base)
 
  The dataset that we used is [ArmanEmo](https://arxiv.org/pdf/2207.11808).
+
+You can also check parsbert version in the [Hugging Face](https://huggingface.co/mohammadhabp/finetuned-parsbert-uncased-ArmanEmo)
