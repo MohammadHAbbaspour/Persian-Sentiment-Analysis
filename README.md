@@ -1,1 +1,0 @@
-# Persian-Sentiment-Analysis-DL_Project-
